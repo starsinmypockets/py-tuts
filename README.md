@@ -12,3 +12,7 @@ $ source venv/bin/activate
 $ pip install --upgrade pip
 $ pip install jupyter
 ```
+
+## Run the notebook
+
+Use `jupyter notebook` to run the notebook
